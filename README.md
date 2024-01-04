@@ -1,16 +1,9 @@
 # led_text
 
-A new Flutter project.
+Enter your text and show on every event like dj show;
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1276" alt="Screenshot 2024-01-04 at 1 30 30 PM" src="https://github.com/storm265/led-text/assets/56002552/1a3a2395-0561-4800-89c4-b0e5b8691ad9">
+<img width="1280" alt="Screenshot 2024-01-04 at 1 30 51 PM" src="https://github.com/storm265/led-text/assets/56002552/1ae169d6-7322-4d60-ae8a-5214ef854817">
